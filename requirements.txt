@@ -1,0 +1,7 @@
+boto3
+pandas
+openai
+langchain
+openpyxl
+aiohttp
+nest_asyncio
